@@ -1,0 +1,18 @@
+[
+    {
+        "name": {
+            "first": "Nelson",
+            "last": "Khachatryan"
+        },
+        "email": "xachatryan.nelsonich@gmail.com",
+        "password": "00000000"
+    },
+    {
+        "name": {
+            "first": "Test",
+            "last": "Test"
+        },
+        "email": "test@gmail.com",
+        "password": "00000000"
+    }
+]

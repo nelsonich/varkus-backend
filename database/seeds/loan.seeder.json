@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Վարկ",
+        "type": "standard",
+        "amount": {
+            "min": 100000,
+            "max": 12000000
+        },
+        "deadline": {
+            "min": 6,
+            "max": 60
+        }
+    },
+    {
+        "name": "Ավտովարկ",
+        "type": "car_loan",
+        "amount": {
+            "min": 500000,
+            "max": 16000000
+        },
+        "deadline": {
+            "min": 12,
+            "max": 60
+        }
+    },
+    {
+        "name": "Հիփոթեք",
+        "type": "mortgage",
+        "amount": {
+            "min": 1000000,
+            "max": 60000000
+        },
+        "deadline": {
+            "min": 120,
+            "max": 240
+        }
+    }
+]
